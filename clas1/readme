@@ -1,0 +1,8 @@
+To run the Streamlit ToDo app, follow these steps:
+First, make sure you have Streamlit installed. Open your terminal/command prompt and run:
+Save the code I provided earlier in a file named todo_app.py
+Then, in your terminal/command prompt, navigate to the directory where you saved the file and run:
+After running this command, Streamlit will:
+1. Start a local server
+2. Automatically open your default web browser with the app
+Usually runs on http://localhost:8501
